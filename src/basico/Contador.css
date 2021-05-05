@@ -1,0 +1,31 @@
+.conteudo{
+	-fx-background-color: black;
+	-fx-font-family: "Oswald";
+	-fx-text-fill: #fff;
+}
+
+.numero {
+	-fx-text-fill: #eee;
+	-fx-font-size: 28px;
+}
+
+.titulo{
+	-fx-text-fill: rgb(114, 159, 207);
+	-fx-font-size: 36px;
+}
+
+.botoes{
+	-fx-background-color: #fff;
+	-fx-text-fill: rgb(114, 159, 207);
+	-fx-font-size: 24px;
+	-fx-min-width: 60px;
+	-fx-min-heigth: 60px;
+	-fx-background-radius: 30px;				
+}
+
+.verde{
+	-fx-text-fill: rgb(138, 226, 52);
+}
+.vermelho{
+	-fx-text-fill: rgb(239, 41, 41);	
+}
